@@ -45,7 +45,7 @@ const About = () => {
                   GitHub
                 </a>
                 <a
-                  href="https://www.facebook.com/share/1B1ySS6Vzu/?mibextid=wwXIfr"
+                  href="https://www.facebook.com/share/1B1ySS6Vzu/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-card border border-border hover:border-accent hover:bg-accent/10 transition-all"

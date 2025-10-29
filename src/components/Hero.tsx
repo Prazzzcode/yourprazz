@@ -62,7 +62,7 @@ const Hero = () => {
   }, []);
 
   const socialLinks = [
-    { icon: Facebook, url: "https://www.facebook.com/share/1B1ySS6Vzu/?mibextid=wwXIfr", label: "Facebook" },
+    { icon: Facebook, url: "https://www.facebook.com/share/1B1ySS6Vzu/", label: "Facebook" },
     { icon: Instagram, url: "https://www.instagram.com/prazzzz_10/", label: "Instagram" },
     { icon: Github, url: "https://github.com/Prazzzcode", label: "GitHub" },
   ];
