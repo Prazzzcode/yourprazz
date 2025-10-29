@@ -1,5 +1,5 @@
 import { ExternalLink } from "lucide-react";
-import profileImage from "@/assets/profile.jpg";
+import profileImage from "@/assets/workspace.jpg";
 
 const About = () => {
   return (
